@@ -1,0 +1,7 @@
+ppmtool-api/.idea
+ppmtool-api/ppmtool-api.iml
+ppmtool-api/target
+
+ppmtool-app/node_modules/
+ppmtool-app/build/
+ppmtool-app/.idea/
